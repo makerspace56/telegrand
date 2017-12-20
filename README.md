@@ -1,3 +1,3 @@
 # Telegrand
 
-A great project from Makerspce56 crew.
+A great project from Makerspace56 crew.
